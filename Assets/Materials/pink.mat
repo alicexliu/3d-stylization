@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Material
+  m_Name: pink
   m_Shader: {fileID: -6465566751694194690, guid: 6919ab23a5fabe24fb16e5835aa5483f,
     type: 3}
   m_Parent: {fileID: 0}

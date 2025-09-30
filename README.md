@@ -7,7 +7,21 @@ I drew this concept art of Kirby in Procreate. I wanted painterly coloring and p
 <img src="./kirby.jpg" height="600"/>
 
 ### 2. Interesting Shaders:
-I implemented multiple light support following this [tutorial](https://www.youtube.com/watch?v=1CJ-ZDSFsMM&list=PLEScZZttnDck7Mm_mnlHmLMfR3Q83xIGp&index=4)
+I implemented multiple light support following this [tutorial](https://www.youtube.com/watch?v=1CJ-ZDSFsMM&list=PLEScZZttnDck7Mm_mnlHmLMfR3Q83xIGp&index=4).
+
+I also implemented rim lighting. 
+
+I used a simple noise function as a texture for my shader to make the edges between highlights/midtones/shadows less sharp. I also added a smoothness parameter to blend between the colors, giving it a more painterly effect. 
+
+|<img src="./rim+texture.png" width="600"/>|
+|:--:|
+|rim lighting + textured toon shader|
+
+I implemented a simple vertex shader that makes the object bob up and down. I will add more to the special shader.
+
+|<video controls src="./simpleVertexAnimation.mp4" type="video/mp4" width="600" height="360">|
+|:--:|
+|special vertex shader|
 
 ## Project Overview:
 In this assignment, you will use a 2D concept art piece as inspiration to create a 3D Stylized scene in Unity. This will give you the opportunity to explore stylized graphics techniques alongside non-photo-realistic (NPR) real-time rendering workflows in Unity.

@@ -19,9 +19,11 @@ I used a simple noise function as a texture for my shader to make the edges betw
 
 I implemented a simple vertex shader that makes the object bob up and down. I will add more to the special shader.
 
-|<video controls src="./simpleVertexAnimation.mp4" type="video/mp4" width="600" height="360">|
-|:--:|
-|special vertex shader|
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/956b86ff-e45b-4b0e-82d8-46cbb0c94b7c" width="600">
+  </video>
+</p>
+
 
 ## Project Overview:
 In this assignment, you will use a 2D concept art piece as inspiration to create a 3D Stylized scene in Unity. This will give you the opportunity to explore stylized graphics techniques alongside non-photo-realistic (NPR) real-time rendering workflows in Unity.

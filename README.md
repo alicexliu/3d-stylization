@@ -1,5 +1,14 @@
 # HW 4: *3D Stylization*
 
+## Project Description:
+### 1. Concept Art:
+I drew this concept art of Kirby in Procreate. I wanted painterly coloring and pencil-textured colored outlines.  <br>
+
+<img src="./kirby.jpg" height="600"/>
+
+### 2. Interesting Shaders:
+I implemented multiple light support following this [tutorial](https://www.youtube.com/watch?v=1CJ-ZDSFsMM&list=PLEScZZttnDck7Mm_mnlHmLMfR3Q83xIGp&index=4)
+
 ## Project Overview:
 In this assignment, you will use a 2D concept art piece as inspiration to create a 3D Stylized scene in Unity. This will give you the opportunity to explore stylized graphics techniques alongside non-photo-realistic (NPR) real-time rendering workflows in Unity.
 

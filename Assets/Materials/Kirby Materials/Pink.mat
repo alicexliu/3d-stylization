@@ -150,11 +150,11 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Rim_Light_Amount: 4.57
-    - _Rim_Light_Strength: 0.256
+    - _Rim_Light_Amount: 2.83
+    - _Rim_Light_Strength: 0.403
     - _SHADOWS_SOFT: 1
     - _Shadow_Scale: 2.7
-    - _Smoothness: 0.22
+    - _Smoothness: 0.315
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1

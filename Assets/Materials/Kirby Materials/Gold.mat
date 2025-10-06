@@ -154,7 +154,7 @@ Material:
     - _Rim_Light_Strength: 0.433
     - _SHADOWS_SOFT: 1
     - _Shadow_Scale: 6.63
-    - _Smoothness: 0.22
+    - _Smoothness: 0.2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1

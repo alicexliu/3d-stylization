@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-
+https://github.com/user-attachments/assets/b6d872f6-20f0-4195-99d2-b400ef80cd08
 
 ### 1. Concept Art:
 I drew this concept art of Kirby in Procreate. I wanted painterly coloring and pencil-textured colored outlines.  <br>
@@ -37,6 +37,8 @@ I added a saturation parameter that changes the saturation of the scene. I also 
 
 ### Interactivity
 I implemented "Party Mode". When users press space, the rotation of the star increases and Kirby iterates through different colors.
+
+https://github.com/user-attachments/assets/2d036e2e-f26e-4079-a4d5-f412d2c6a1c1
 
 ### Extra Renders: 
 

@@ -49,5 +49,3 @@ I added a saturation parameter that changes the saturation of the scene. I also 
 I implemented "Party Mode". When users press space, the rotation of the star increases and Kirby iterates through different colors.
 
 https://github.com/user-attachments/assets/2d036e2e-f26e-4079-a4d5-f412d2c6a1c1
-.dev/about/)
-        - [Article on Edge Detection Post Process Outlines in Unity](https://ameye.dev/notes/edge-detection-outlines/)
